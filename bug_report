@@ -1,0 +1,20 @@
+<Bug Name> Something will be here later </Bug Name>
+<Bug ID> Something will be here later </Bug ID>
+<Area Path> Something will be here later </Area Path>
+<Build Number> Version Number 5.0.1</Build Number>
+<Severity> HIGH </Severity>
+<Priority> HIGH </Priority>
+<Assigned to> Developer-X </Bug Nam Assigned to e>
+<Reported By> YKevra</Reported By>
+<Reported On> 2022-05-31</Reported On>
+<Reason> Defect </Reason>
+<Status> New </Status>
+<Environment> Windows 2010</Environment>
+<Description> Something will be here later </Description>
+  <Steps to Reproduce> 
+   <1> Something will be here later </1>
+   <2> Something will be here later </2>
+   <3> Something will be here later </3>
+  </Steps to Reproduce>
+<Expected Result> Something will be here later </Expected Result>
+<Actual Result> Something will be here later </Actual Result>
